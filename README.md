@@ -4,7 +4,7 @@
 
 | Student name | SRN |
 | --- | --- |
-| _(SATYAKAM TRIPATHY)_ | _(R24SA036)_ |
+| _SATYAKAM TRIPATHY_ | _R24SA036_ |
 
 ## 1. What the program does
 
