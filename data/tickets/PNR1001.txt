@@ -1,0 +1,18 @@
++------------------------------------------------+
+|             BUS TICKET - CONFIRMED             |
++------------------------------------------------+
+| PNR       : PNR1001                            |
+| Passenger : Satyakam                           |
+| Phone     : 8249491532                         |
+| Trip      : T041                               |
+| Bus       : KA01-2206 (AC Seater)              |
+| Route     : Bengaluru -> Coimbatore (365 km)   |
+| Departure : Mon 05-10-2026 23:00               |
+| Seats     : 1                                  |
+| Fare      : Rs.936.00 (1 x Rs.936.00)          |
+| Concession: -Rs.93.60 (10%)                    |
+| GST       : +Rs.42.12                          |
+| Round off : +0.48                              |
+| Amount    : Rs.885.00                          |
+| Booked on : Tue 29-09-2026 12:16               |
++------------------------------------------------+
