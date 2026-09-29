@@ -1,10 +1,10 @@
 # Bus Ticket Booking System — V2 — Java OOP Mini Project
 
-**REVA University · School of Computer Science and Engineering · B.Sc. (BSTCs) · Semester V · Java Programming**
+**REVA University · School of Applied Sciences · B.Sc. (BSTCs) · Semester V · Java Programming**
 
 | Student name | SRN |
 | --- | --- |
-| _(fill in)_ | _(fill in, e.g. R24SA0__)_ |
+| _(SATYAKAM TRIPATHY)_ | _(R24SA036)_ |
 
 ## 1. What the program does
 
